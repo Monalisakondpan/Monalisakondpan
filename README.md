@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Monalisa Kondpan 👋
 
-<!--
-**Monalisakondpan/Monalisakondpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE, Koneru Lakshmaiah Education Foundation — specialization: Software Modelling & DevOps.
 
-Here are some ideas to get you started:
+I build web apps and explore DevOps workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+JavaScript · React · Java · Node.js · Git/GitHub Actions
+
+## 🚀 Projects
+- **[Portfolio](https://my-portfolio-lemon-zeta-82.vercel.app/)** — personal site, built with JS
+- **[GYM-APPLICATION](https://github.com/Monalisakondpan/GYM-APPLICATION)** — gym management app, JS
+- **[Job Search Portal](https://github.com/Monalisakondpan/Job_Search_Portal)** — job listing platform, JS
+
+## 📫 Reach me
+- LinkedIn: [monalisa-k-95399b225](https://www.linkedin.com/in/monalisa-k-95399b225)
+- Medium: [@monalisakondpan745](https://medium.com/@monalisakondpan745)
